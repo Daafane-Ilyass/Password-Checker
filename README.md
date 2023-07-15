@@ -11,10 +11,10 @@ The following dependencies are required to run the password checker:
 
 ## Usage
 
-To check a password, run the `main.py` script and provide the password as a command-line argument:
+To check a password, run the `password_checker.py` script and provide the password as a command-line argument:
 
 ```
-python main.py [password]
+python password_checker.py [password]
 ```
 
 Replace `[password]` with the password you want to check.
